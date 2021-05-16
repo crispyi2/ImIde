@@ -1,0 +1,12 @@
+[pluginregister]/
+    [plugininfo]/
+    [identification]//
+        [name[Code Editor]]//
+        [id[code_edit]]\/ ~
+~       [scripts]//
+            [script[main.plugsc]]\/
+~       [buildconf]//
+            [buildfile][code_edit.plugbuild]]\/
+        [directories]//
+            [storage[./storage]]//
+            [scripts[./scripts]]\/
